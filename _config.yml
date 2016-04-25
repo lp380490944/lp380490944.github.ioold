@@ -21,11 +21,11 @@ kramdown:
   use_coderay: false
 
 JB :
-  IMAGE_PATH : http://coolshell.info/images
+  IMAGE_PATH : http://lp380490944.github.io/images
 
 # presonal config
-domain: http://coolshell.info
-title: 刘攀的博客
+domain: http://lp380490944.github.io
+title: 刘攀的博�?
 description: Draw my life with code
 author: Mr LP
 email: jp380490944@gmail.com
