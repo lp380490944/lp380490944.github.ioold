@@ -21,11 +21,11 @@ kramdown:
   use_coderay: false
 
 JB :
-  IMAGE_PATH : 
+  IMAGE_PATH : false
 
 # presonal config
 domain: 
-title: 刘攀的博�?
+title: "刘攀的博�?"
 description: Draw my life with code
 author: Mr LP
 email: jp380490944@gmail.com
