@@ -21,10 +21,10 @@ kramdown:
   use_coderay: false
 
 JB :
-  IMAGE_PATH : http://lp380490944.github.io/images
+  IMAGE_PATH : 
 
 # presonal config
-domain: http://lp380490944.github.io
+domain: 
 title: 刘攀的博�?
 description: Draw my life with code
 author: Mr LP
