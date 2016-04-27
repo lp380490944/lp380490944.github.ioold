@@ -21,7 +21,7 @@ kramdown:
   use_coderay: false
 
 JB :
-  IMAGE_PATH : http://coolshell.info/images
+  IMAGE_PATH : images
 
 # presonal config
 domain: http://coolshell.info
